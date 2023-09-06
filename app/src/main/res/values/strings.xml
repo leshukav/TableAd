@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">TableAd</string>
+    <string name="ad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_inter">ca-app-pub-3940256099942544/1033173712</string>
+    <!--  Main menu  -->
+    <string name="ad_cat">Advertisement</string>
+    <string name="ad_my_ads">My advertisement</string>
+    <string name="ad_car">Car</string>
+    <string name="ad_pc">PC</string>
+    <string name="ad_smartphone">Smartphone</string>
+    <string name="ad_dm">Appliances</string>
+    <string name="ac_cat">Account</string>
+    <string name="ac_sign_up">Sign up</string>
+    <string name="ac_sign_in">Sign in</string>
+    <string name="ac_sign_out">Sugn out</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="not_reg">Log in or register</string>
+    <string name="default_category">Different</string>
+
+    <!--  String dialog  -->
+    <string name="email_hint">Email</string>
+    <string name="reset_password">Reset Password sent to Email</string>
+    <string name="reset_password_message">To restore your password, enter your email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_action">Sign in</string>
+    <string name="sign_up_action">Sign up</string>
+    <string name="forget_password">Forget password</string>
+    <string name="sign_up_error">Sign up error</string>
+    <string name="sign_in_error">Sign in error</string>
+    <string name="send_verification_email_error">couldn\'t send confirmation to email</string>
+    <string name="send_verification_done">A confirmation of account verification has been sent to your Email</string>
+    <string name="sign_with_google_account">Sign in with google account done</string>
+    <string name="link_is_successful">Link is successful</string>
+    <string name="enter_google_account_to_register_email">Enter in google account and some register email</string>
+    <string name="new_ad">New ad</string>
+
+
+    <!--  Edit Activity  -->
+    <string name="select_country">select a country</string>
+    <string name="select_city">select a city</string>
+    <string name="main_photo">Main photo</string>
+    <string name="photo_2">Photo №2</string>
+    <string name="photo_3">Photo №3</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="index">Index</string>
+    <string name="telephone">Telephone</string>
+    <string name="category">Category</string>
+    <string name="title">Title</string>
+    <string name="title_hint">*Ad name</string>
+    <string name="select_category">*Select_category</string>
+    <string name="price">Price</string>
+    <string name="price_hint">*Price</string>
+    <string name="description">Description</string>
+    <string name="description_hint">*Descriptione</string>
+    <string name="with_send">With send</string>
+    <string name="send">Send</string>
+    <string name="publish">Publish</string>
+
+    <!--  Ad list item  -->
+    <string name="price_desc">Price:</string>
+    <string name="guest">Guest</string>
+    <string name="done">Done</string>
+    <string name="applay_filter">Applay filter</string>
+
+</resources>

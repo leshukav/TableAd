@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>@string/ad_car</item>
+        <item>@string/ad_pc</item>
+        <item>@string/ad_smartphone</item>
+        <item>@string/ad_dm</item>
+    </string-array>
+</resources>

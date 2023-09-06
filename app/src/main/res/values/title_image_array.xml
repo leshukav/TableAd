@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title_array">
+        <item>@string/main_photo</item>
+        <item>@string/photo_2</item>
+        <item>@string/photo_3</item>
+    </string-array>
+
+</resources>

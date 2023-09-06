@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/delete_image"
+        android:title="@string/new_ad"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/ad_image"
+        android:icon="@drawable/add_image"
+        android:title="@string/new_ad"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom" />
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "899678518869",
+    "firebase_url": "https://table-kotlin-be7a4-default-rtdb.firebaseio.com",
+    "project_id": "table-kotlin-be7a4",
+    "storage_bucket": "table-kotlin-be7a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899678518869:android:f5323e4e000b995cd8dedc",
+        "android_client_info": {
+          "package_name": "ru.netology.tablead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899678518869-8u7duufhu57854n5pu860cg2349u8h2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.netology.tablead",
+            "certificate_hash": "5b9c2289edb0c7fb7b0e2fd151d9a7a5879980ef"
+          }
+        },
+        {
+          "client_id": "899678518869-blknupmak9nv863f8r0pu905vffn7c4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHF9FFrKZdDbNyVPerw1x7CUIjmnDy2J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899678518869-0csa2r9dskomr267ae1o5qa5f7cjrbqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
